@@ -21,6 +21,5 @@
  </div>
  
  ##
-<div> 
-  ![Snake animation](https://github.com/AraujoAlexS/AraujoAlexS/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+ ![Snake animation](https://github.com/AraujoAlexS/AraujoAlexS/blob/output/github-contribution-grid-snake.svg)
