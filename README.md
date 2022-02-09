@@ -4,7 +4,7 @@
 - 👯 Estou colaborando com <a href="https://github.com/IngridFCosta">Ingrid Costa</a> no projeto doaAção. 
 - 📫 entre em contato através do email araujo.alexsantos@gmail.com.
 
-- #####Olha o que eu fiz
+- <b>Olha o que eu fiz</b>
 - <a href='https://100dayscss.com/progress/Alex_Araujo/'> 100 dias de CSS </a>
 - <a href='https://codepen.io/Alex_Araujo'> codepen </a>
 
