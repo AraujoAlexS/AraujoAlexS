@@ -1,6 +1,3 @@
-<head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-</head>
 ### Oi eu sou Alex 👋
 
 - 🌱 Atualmente estou afiando minhas skills em web development full stack.
