@@ -1,13 +1,19 @@
-### Oi eu sou Alex 👋
+### Hi, my name is Alex👋
 
-- 🌱 Atualmente estou afiando minhas skills em web development full stack.
-- 👯 Estou colaborando com <a href="https://github.com/IngridFCosta">Ingrid Costa</a> no projeto doaAção. 
-- 📫 entre em contato através do email araujo.alexsantos@gmail.com.
-
-- <b>Olha o que eu fiz</b>
+- 🗺️ I'm a Brazillian developer.   
+- 🌱 Currently working at <a href='https://www.youfy.com.br/'> Youfy </a>.
+- 📖 And I have a profound passion for Fantasy and Sci-Fi novels.
+- 📫 You can contact me at araujo.alexsantos@gmail.com.
+- ☎️ Or by the number 55+ (85) 988724-4915.
+\
+&nbsp;
+- <b>Look what i've also done</b>
 - <a href='https://100dayscss.com/progress/Alex_Araujo/'> 100 dias de CSS </a>
-- <a href='https://codepen.io/Alex_Araujo'> codepen </a>
+- <a href='https://codepen.io/Alex_Araujo'> Codepen </a>
+- <a href='https://www.codewars.com/users/AraujoAlexS'> Codewars </a>
 
+\
+&nbsp;
  <div>
   <a href="https://github.com/AraujoAlexS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AraujoAlexS&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
