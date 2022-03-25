@@ -8,7 +8,7 @@
 \
 &nbsp;
 - <b>Look what i've also done</b>
-- <a href='https://100dayscss.com/progress/Alex_Araujo/'> 100 dias de CSS </a>
+- <a href='https://100dayscss.com/progress/Alex_Araujo/'> 100 days of CSS </a>
 - <a href='https://codepen.io/Alex_Araujo'> Codepen </a>
 - <a href='https://www.codewars.com/users/AraujoAlexS'> Codewars </a>
 
