@@ -3,11 +3,13 @@
 - 🗺️ I'm a Brazillian developer.   
 - 🌱 Currently working at <a href='https://www.youfy.com.br/'> Youfy </a>.
 - 📖 And I have a profound passion for Fantasy and Sci-Fi novels.
-
+\
+&nbsp;
 - 🔨 Want to know more about my work ethics? Some important contacts.
 - 📬 +55 85 9698-0352 - Diego Platini - <a href ='https://www.linkedin.com/in/diegoplatini/?locale=en_US'> Linkedin </a>
 - 📬 +55 85 8192-5276 - Alan Bacelar - <a href ='https://www.linkedin.com/in/alanbacelar/'> Linkedin </a>
-
+\
+&nbsp;
 - 📫 You can contact me at araujo.alexsantos@gmail.com.
 - ☎️ Or by the number 55+ (85) 988724-4915.
 \
