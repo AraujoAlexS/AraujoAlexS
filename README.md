@@ -11,7 +11,7 @@
 \
 &nbsp;
 - 📫 You can contact me at araujo.alexsantos@gmail.com.
-- ☎️ Or by the number 55+ (85) 988724-4915.
+- ☎️ Or by the number 55+ (85) 98724-4915.
 \
 &nbsp;
 - <b>Look what i've also done</b>
