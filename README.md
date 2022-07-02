@@ -43,3 +43,4 @@
  
  ##
 
+ ![Snake animation](https://github.com/AraujoAlexS/AraujoAlexS/blob/output/github-contribution-grid-snake.svg)
