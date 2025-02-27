@@ -4,8 +4,6 @@
 - 🌱 Currently working at <a href='https://www.deway.com.br/'> Deway </a>.
 - 📖 And I have a profound passion for Fantasy and Sci-Fi novels.
 \
-
-\
 &nbsp;
 - 📫 You can contact me at araujo.alexsantos@gmail.com.
 - ☎️ Or by the number 55+ (85) 98724-4915.
