@@ -1,7 +1,7 @@
 ### Hi, my name is Alex👋
 
 - 🗺️ I'm a Brazillian developer.   
-- 🌱 Currently working at <a href='https://www.deway.com.br/'> Deway </a>.
+- 🌱 Currently working at <a href='https://vantechnology.com.br/'> Vantech / CORPVS </a>.
 - 📖 And I have a profound passion for Fantasy and Sci-Fi novels.
 \
 &nbsp;
